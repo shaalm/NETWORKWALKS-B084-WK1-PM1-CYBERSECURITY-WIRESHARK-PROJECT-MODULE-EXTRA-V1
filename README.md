@@ -1,7 +1,7 @@
-Wireshark SOC Labs: Network Traffic Analysis
+#Wireshark SOC Labs: Network Traffic Analysis
 This repository contains my completed work for the Networkwalks Wireshark SOC Project Module. As part of this practical module, I investigated 6 different network capture (PCAP) scenarios using Wireshark. Each lab consisted of 10 tasks designed to simulate real-world Security Operations Center (SOC) analyst workflows.
 
-🎯 Project Objectives
+#🎯 Project Objectives
 The goal of these labs was to build practical Wireshark skills by investigating real network traffic. Key areas of focus included:
 
 Threat Hunting: Identifying malicious actors and targets within a network.
@@ -16,7 +16,7 @@ Incident Detection: Recognizing attack patterns like brute-force attempts.
 
 VoIP Analysis: Extracting audio from VoIP calls to investigate social engineering scams.
 
-📊 Lab Summary & Results
+#📊 Lab Summary & Results
 Below is a summary of the 6 completed labs and my scores. All 60 tasks were attempted, with a 90% overall average.
 
 Lab	Topic	Key Skills Practiced	Score
@@ -29,7 +29,7 @@ Lab 8	Catch the Call Scammer	Analyzing SIP/RTP traffic, replaying VoIP audio, ex
 🛠️ Tools Used
 Wireshark: Primary tool for packet capture analysis, filtering, and stream following.
 
-Networkwalks Labs Platform: Browser-based lab environment provided for the project.
+#Networkwalks Labs Platform: Browser-based lab environment provided for the project.
 
 📂 Repository Structure (Suggested)
 /screenshots: Contains proof of completion for each lab (as seen in the provided images).
